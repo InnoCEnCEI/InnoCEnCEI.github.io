@@ -3,6 +3,6 @@
 
 ## [工具] [2]
 
-[1]:http://www.baidu.com
-[2]:http://www.baidu.com
+[1]:./pages/tech/list.md
+[2]:./pages/tool/list.md
 
